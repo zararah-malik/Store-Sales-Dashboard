@@ -1,13 +1,13 @@
 # Super Store Sales Analysis Dashboard
 
-## Introduction to the Project
+## Introduction:
 
 This Power BI dashboard was developed to analyze Super Store sales data and uncover actionable insights across categories, customer segments, and sales channels. The goal was to present a clear overview of business performance and trends that can support decision-making.
 
 **Dashboard Preview:**  
 ![Sales Dashboard](https://github.com/zararah-malik/Store-Sales-Dashboard/blob/main/Dashboard_f.png)
 
-## Project Execution
+## How I approached?/ Project Execution:
 
 The project was completed in two major phases:
 
@@ -22,7 +22,7 @@ The project was completed in two major phases:
 - **Marketing strategists** aiming to identify top-selling products and seasonal trends.
 - **Stakeholders** looking for a high-level view of performance and areas to improve.
 
-## Key Insights
+## Key Insights:
 
 - Office Supplies lead in both **sales (41%)** and **quantity sold (13.6K units)**.
 - **Phones** are the top-performing sub-category in terms of revenue.
@@ -30,7 +30,7 @@ The project was completed in two major phases:
 - **Cash on Delivery (COD)** generated the highest profit (46.84% share).
 - **December** had the highest sales; **April** had the lowest, showing seasonal variation.
 
-## Recommendations
+## Recommendations:
 
 - Increase marketing and inventory focus on high-performing sub-categories like **Phones** and **Chairs**.
 - Promote **Standard shipping** as it appears to be cost-effective and popular.
